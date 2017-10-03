@@ -5,8 +5,8 @@ language: android
       # use the latest revision of Android SDK Tools
       - tools
       - platform-tools
-      - build-tools-24.0.3
-      - android-25
+      - build-tools-26.0.1
+      - android-26
       - extra-android-m2repository
      - extra-google-m2repository
      # Specify at least one system image,
@@ -17,10 +17,10 @@ language: android
      - 'android-sdk-preview-license-.+'
      - 'android-sdk-license-.+'
      - 'google-gdk-license-.+'
-  install:
-  - echo y | android update sdk -u -a -t tools
-  - echo y | android update sdk -u -a -t platform-tools
-  - echo y | android update sdk -u -a -t build-tools-25.0.2
-  - echo y | android update sdk -u -a -t android-25
-  - echo y | android update sdk -u -a -t extra-google-m2repository
-  - echo y | android update sdk -u -a -t extra-android-m2repository
+  #install:
+  #- echo y | android update sdk -u -a -t tools
+  #- echo y | android update sdk -u -a -t platform-tools
+  #- echo y | android update sdk -u -a -t build-tools-26.0.1
+  #- echo y | android update sdk -u -a -t android-26
+  #- echo y | android update sdk -u -a -t extra-google-m2repository
+  #- echo y | android update sdk -u -a -t extra-android-m2repository
