@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LLista de la compra</string>
+    <string name="action_settings">Opcions</string>
+    <string name="action_exit">Sortir</string>
+    <string name="Whatsapp_Head">Hola! m\'agradaria que compressis aquestes coses:</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Groceries list</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_Whatsapp" translatable="false">Whatsapp</string>
+    <string name="Whatsapp_Head">Hi! I would like that you buy those things:</string>
+</resources>
