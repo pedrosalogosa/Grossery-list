@@ -7,5 +7,7 @@ una app Android per a fer llistes de la compra i enviar-les per Whatsapp. Encara
 
 # Estat del projecte 
 Funciona perfectísimament.
+
 En estat de desembolupament
+
 (no sé usar travis, ho sento. però ja vaig fent probes :D)
