@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7f6c88f97eff40eda93f59138912a118e6659a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\polma\.android\build-cache\daaba175552137a415999c64f3d731d2b27bd6f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\pre-dexed\debug\classes_5c5040f1b9b891860048609f446cb832ee187c41.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d18f6431da88db2c322158a3de2d97d6f470d422">
+        <dex dex="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4cf3547cc881ef15d30aba7eb16d007c8a1886e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\polma\.android\build-cache\449a13186831aaaff35436fa5e9eee8705738627\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\pre-dexed\debug\classes_a4d149e9d292c76bc8bc3494e7282e24bf4c14b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\polma\.android\build-cache\4e3b13dd361728b5cd6a691524cb6504812b5780\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\External_Docs\Android\LListadelacompra\app\build\intermediates\pre-dexed\debug\classes_de09512677270a94d92d42da195dd12d654bc8f6.jar" />
+    </item>
+
+</items>
