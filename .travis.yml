@@ -3,7 +3,7 @@ jdk: oraclejdk8
 android:
   components:
     - extra-android-m2repository
-    - sys-img-armeabi-v7a-android-24
+    - sys-img-armeabi-v7a-android-26
     - tools
     - platform-tools
     - build-tools-26.0.1
@@ -23,7 +23,7 @@ before_install:
   - echo -e "\n84831b9409646a918e30573bab4c9c91346d8abd" > "$ANDROID_HOME/licenses/android-sdk-preview-license"
 before_script:
   # Create and start an emulator for instrumentation tests.
-  - echo no | android create avd --force -n test -t android-24 --abi armeabi-v7a
+  - echo no | android create avd --force -n test -t android-26 --abi armeabi-v7a
   - emulator -avd test -no-window &
   - android-wait-for-emulator
   - adb shell input keyevent 82 &
