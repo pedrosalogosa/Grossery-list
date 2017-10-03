@@ -7,7 +7,7 @@ android:
     - android-22
     - build-tools-22.0.1
     - extra-android-m2repository
-    -extra-google-m2repository
+    - extra-google-m2repository
     # Specify at least one system image,
     # if you need to run emulator(s) during your tests
     
